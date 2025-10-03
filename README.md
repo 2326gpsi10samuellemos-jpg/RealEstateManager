@@ -1,7 +1,7 @@
 # Real Estate Manager (C#)
 
 This project is a more advanced C# console application developed to manage real estate properties.  
-The system allows users to **add, edit, remove, and view properties**, each with defined characteristics such as type, size (m²), and name.
+The system allows users to **add, edit, remove, and view properties**, each with defined characteristics such as type, size (m²), and name and much more.
 
 ## Features
 - Add new properties with specific attributes (type, size, name, etc.)  
