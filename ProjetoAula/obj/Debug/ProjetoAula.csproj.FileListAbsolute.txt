@@ -1,0 +1,28 @@
+C:\Users\samue\Desktop\Programas\C#\ImoveisProjeto\ProjetoAula\bin\Debug\ProjetoAula.exe.config
+C:\Users\samue\Desktop\Programas\C#\ImoveisProjeto\ProjetoAula\bin\Debug\ProjetoAula.exe
+C:\Users\samue\Desktop\Programas\C#\ImoveisProjeto\ProjetoAula\bin\Debug\ProjetoAula.pdb
+C:\Users\samue\Desktop\Programas\C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.csproj.AssemblyReference.cache
+C:\Users\samue\Desktop\Programas\C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.form_principal.resources
+C:\Users\samue\Desktop\Programas\C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.form_editar.resources
+C:\Users\samue\Desktop\Programas\C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.form_eliminar.resources
+C:\Users\samue\Desktop\Programas\C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.form_inserir.resources
+C:\Users\samue\Desktop\Programas\C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.form_visualizar.resources
+C:\Users\samue\Desktop\Programas\C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.Properties.Resources.resources
+C:\Users\samue\Desktop\Programas\C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.csproj.GenerateResource.cache
+C:\Users\samue\Desktop\Programas\C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\Programas\C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.exe
+C:\Users\samue\Desktop\Programas\C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.pdb
+C:\Users\aluno\Desktop\programas C#\ImoveisProjeto\ProjetoAula\bin\Debug\ProjetoAula.exe.config
+C:\Users\aluno\Desktop\programas C#\ImoveisProjeto\ProjetoAula\bin\Debug\ProjetoAula.exe
+C:\Users\aluno\Desktop\programas C#\ImoveisProjeto\ProjetoAula\bin\Debug\ProjetoAula.pdb
+C:\Users\aluno\Desktop\programas C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\programas C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.form_principal.resources
+C:\Users\aluno\Desktop\programas C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.form_editar.resources
+C:\Users\aluno\Desktop\programas C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.form_eliminar.resources
+C:\Users\aluno\Desktop\programas C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.form_inserir.resources
+C:\Users\aluno\Desktop\programas C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.form_visualizar.resources
+C:\Users\aluno\Desktop\programas C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.Properties.Resources.resources
+C:\Users\aluno\Desktop\programas C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\programas C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\programas C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.exe
+C:\Users\aluno\Desktop\programas C#\ImoveisProjeto\ProjetoAula\obj\Debug\ProjetoAula.pdb
